@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "omniport-f3617"
+  },
+  "targets": {},
+  "etags": {
+    "omniport-f3617": {
+      "extensionInstances": {
+        "moralis-streams": "f2baeae2a0261320ecfa59a07bf1ac14dad640f5d397a095e7d11a248ebc20ed"
+      }
+    }
+  }
+}
